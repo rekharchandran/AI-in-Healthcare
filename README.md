@@ -1,2 +1,2 @@
 # AI-in-Healthcare
-This repository contains some AI in healthcare tasks
+This repository contains some AI in healthcare excercises 
